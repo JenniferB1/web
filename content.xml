@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260411113444XILEEU</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260411113444HWF9SW</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La despensa saludable</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Jennifer Correlo Gonçalves</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje sobre la alimentación saludable</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775894522822</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnu1qvni-olk1s7qhy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>La despensa saludable.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La despensa saludable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La despensa saludable. SdA sobre la alimentación saludable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>La despensa saludable.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnu1qvni-olk1s7qhy</odePageId>
+      <odeBlockId>block-1774777176353-gjp7p0jzi</odeBlockId>
+      <blockName>SdA sobre la alimentación saludable</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnu1qvni-olk1s7qhy</odePageId>
+          <odeBlockId>block-1774777176353-gjp7p0jzi</odeBlockId>
+          <odeIdeviceId>idevice-1774777176350-fdltacsp9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje (SdA) está diseñada para la etapa de <strong>Educación Infantil</strong>, más concretamente para el alumnado de <strong>4 años.</strong> A través de ella se trabajan las tres áreas del currículo, poniendo un énfasis especial en el <strong>Área I: Crecimiento en armonía</strong>, favoreciendo la adquisición de un estilo de vida saludable.</p>
+<p>En cuanto a la <strong>organización del alumnado y los agrupamientos</strong>, se contemplan diferentes modalidades de trabajo. Se proponen momentos de trabajo individual, que permiten al alumnado asumir responsabilidades propias y desarrollar su autonomía. Actividades en pequeños grupos heterogéneos, con el objetivo de fomentar el aprendizaje cooperativo, la interacción entre iguales y la resolución conjunta de retos, contribuyendo al desarrollo de habilidades sociales. También se incluyen actividades en gran grupo, que favorecen la participación conjunta y la construcción compartida del aprendizaje. Los <strong>espacios</strong> utilizados serán los rincones del aula y las mesas de trabajo, adaptando la disposición del aula a las necesidades de cada actividad.</p>
+<p>La Situación de Aprendizaje se desarrollará a lo largo de <strong>3 semanas</strong>, con una organización temporal de dos sesiones semanales de <strong>45 minutos cada una</strong>, lo que permitirá avanzar de manera progresiva en la adquisición de los aprendizajes y en la elaboración de los diferentes productos planteados.</p>
+<p>Durante estas sesiones, el alumnado llevará a cabo diversas tareas relacionadas con la temática trabajada. Entre los <strong>productos</strong> que desarrollará se incluyen: la elaboración de un plato saludable, actividades de clasificación de alimentos saludables y no saludables, así como la clasificación de los distintos tipos de alimentos. Estas tareas permitirán al alumnado acercarse a hábitos de vida saludables de forma práctica y significativa.</p>
+<p>Además, como productos finales, el alumnado elaborará una infografía digital utilizando la herramienta Canva, en la que se recogerán de manera visual y organizada los contenidos trabajados, incorporando elementos gráficos que faciliten la comprensión. Asimismo, se diseñará un juego interactivo mediante Wordwall, que permitirá reforzar los aprendizajes de forma lúdica y motivadora, fomentando la participación activa del alumnado.</p>
+<p>Como recurso complementario, se hará uso de contenidos audiovisuales procedentes del canal educativo Smile and Learning de YouTube, que servirán de apoyo para introducir conceptos, reforzar aprendizajes y favorecer la atención y motivación del alumnado mediante recursos visuales adaptados a su edad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774777176350-fdltacsp9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje (SdA) está diseñada para la etapa de <strong>Educación Infantil</strong>, más concretamente para el alumnado de <strong>4 años.</strong> A través de ella se trabajan las tres áreas del currículo, poniendo un énfasis especial en el <strong>Área I: Crecimiento en armonía</strong>, favoreciendo la adquisición de un estilo de vida saludable.</p>\n<p>En cuanto a la <strong>organización del alumnado y los agrupamientos</strong>, se contemplan diferentes modalidades de trabajo. Se proponen momentos de trabajo individual, que permiten al alumnado asumir responsabilidades propias y desarrollar su autonomía. Actividades en pequeños grupos heterogéneos, con el objetivo de fomentar el aprendizaje cooperativo, la interacción entre iguales y la resolución conjunta de retos, contribuyendo al desarrollo de habilidades sociales. También se incluyen actividades en gran grupo, que favorecen la participación conjunta y la construcción compartida del aprendizaje. Los <strong>espacios</strong> utilizados serán los rincones del aula y las mesas de trabajo, adaptando la disposición del aula a las necesidades de cada actividad.</p>\n<p>La Situación de Aprendizaje se desarrollará a lo largo de <strong>3 semanas</strong>, con una organización temporal de dos sesiones semanales de <strong>45 minutos cada una</strong>, lo que permitirá avanzar de manera progresiva en la adquisición de los aprendizajes y en la elaboración de los diferentes productos planteados.</p>\n<p>Durante estas sesiones, el alumnado llevará a cabo diversas tareas relacionadas con la temática trabajada. Entre los <strong>productos</strong> que desarrollará se incluyen: la elaboración de un plato saludable, actividades de clasificación de alimentos saludables y no saludables, así como la clasificación de los distintos tipos de alimentos. Estas tareas permitirán al alumnado acercarse a hábitos de vida saludables de forma práctica y significativa.</p>\n<p>Además, como productos finales, el alumnado elaborará una infografía digital utilizando la herramienta Canva, en la que se recogerán de manera visual y organizada los contenidos trabajados, incorporando elementos gráficos que faciliten la comprensión. Asimismo, se diseñará un juego interactivo mediante Wordwall, que permitirá reforzar los aprendizajes de forma lúdica y motivadora, fomentando la participación activa del alumnado.</p>\n<p>Como recurso complementario, se hará uso de contenidos audiovisuales procedentes del canal educativo Smile and Learning de YouTube, que servirán de apoyo para introducir conceptos, reforzar aprendizajes y favorecer la atención y motivación del alumnado mediante recursos visuales adaptados a su edad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnu1qvnj-2kjneaxvf</odePageId>
+  <odeParentPageId>page-mnu1qvni-olk1s7qhy</odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnu1qvnj-2kjneaxvf</odePageId>
+      <odeBlockId>block-1774778931531-twgzxo6nh</odeBlockId>
+      <blockName>Justificación, ODS y retos del siglo XXI</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnu1qvnj-2kjneaxvf</odePageId>
+          <odeBlockId>block-1774778931531-twgzxo6nh</odeBlockId>
+          <odeIdeviceId>idevice-1774778931527-ijou6hu3v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>De todos es conocido que tener una alimentación saludable permite un correcto funcionamiento de nuestro organismo. Este hecho se hace más patente en la infancia ya que, una alimentación saludable, favorece un adecuado desarrollo en los niños y niñas. Sin embargo, y a pesar de conocer su importancia, la mitad de la población infantil de nuestro país tiene sobrepeso o es obesa. Por lo tanto, es necesario que los niños y niñas en edades tempranas conozcan que alimentos son más saludables y aquellos que no lo son tanto, y como pueden conseguir tener una adecuada alimentación.</p>
+<p>La adquisición de estos hábitos en la etapa de Educación Infantil resulta especialmente relevante, ya que los aprendizajes y rutinas incorporados en estas edades tienden a mantenerse a lo largo del tiempo, influyendo directamente en el bienestar físico y emocional futuro del alumnado.</p>
+<p>En este sentido, la SdA contribuye a dar respuesta a uno de los <strong>retos del siglo XXI</strong>: el desarrollo de hábitos de vida saludables. Además, se relaciona con los siguientes <strong>ODS</strong>: <img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774778931527-ijou6hu3v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>De todos es conocido que tener una alimentación saludable permite un correcto funcionamiento de nuestro organismo. Este hecho se hace más patente en la infancia ya que, una alimentación saludable, favorece un adecuado desarrollo en los niños y niñas. Sin embargo, y a pesar de conocer su importancia, la mitad de la población infantil de nuestro país tiene sobrepeso o es obesa. Por lo tanto, es necesario que los niños y niñas en edades tempranas conozcan que alimentos son más saludables y aquellos que no lo son tanto, y como pueden conseguir tener una adecuada alimentación.</p>\n<p>La adquisición de estos hábitos en la etapa de Educación Infantil resulta especialmente relevante, ya que los aprendizajes y rutinas incorporados en estas edades tienden a mantenerse a lo largo del tiempo, influyendo directamente en el bienestar físico y emocional futuro del alumnado.</p>\n<p>En este sentido, la SdA contribuye a dar respuesta a uno de los <strong>retos del siglo XXI</strong>: el desarrollo de hábitos de vida saludables. Además, se relaciona con los siguientes <strong>ODS</strong>: <img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775894779753-rn5l8rr2d</odePageId>
+  <odeParentPageId>page-mnu1qvni-olk1s7qhy</odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775894779753-rn5l8rr2d</odePageId>
+      <odeBlockId>block-1775894817436-544dxklrz</odeBlockId>
+      <blockName>Competencias clave</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775894779753-rn5l8rr2d</odePageId>
+          <odeBlockId>block-1775894817436-544dxklrz</odeBlockId>
+          <odeIdeviceId>idevice-1775894817435-x7kehw0ty</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje contribuye al desarrollo de las ocho competencias clave, aunque no todas se trabajan con la misma intensidad. Destacan especialmente la <strong>competencia personal, social y de aprender a aprender</strong>, así como la competencia <strong>STEM</strong> (matemáticas, ciencia, tecnología e ingeniería), que son a las que más se contribuyen. Por el contrario, su contribución es menor en la competencia plurilingüe y en la competencia en conciencia y expresiones culturales. Esto se debe a que, mediante esta situación, se pretende que el alumnado adquiera hábitos de vida saludable. Por ello, se abordan en menor medida los aspectos relacionados con las distintas culturas y otras lenguas, que se trabajan de forma más específica desde otras asignaturas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775894817435-x7kehw0ty","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje contribuye al desarrollo de las ocho competencias clave, aunque no todas se trabajan con la misma intensidad. Destacan especialmente la <strong>competencia personal, social y de aprender a aprender</strong>, así como la competencia <strong>STEM</strong> (matemáticas, ciencia, tecnología e ingeniería), que son a las que más se contribuyen. Por el contrario, su contribución es menor en la competencia plurilingüe y en la competencia en conciencia y expresiones culturales. Esto se debe a que, mediante esta situación, se pretende que el alumnado adquiera hábitos de vida saludable. Por ello, se abordan en menor medida los aspectos relacionados con las distintas culturas y otras lenguas, que se trabajan de forma más específica desde otras asignaturas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775894779753-rn5l8rr2d</odePageId>
+      <odeBlockId>block-1775895542140-1egl1rf0v</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775894779753-rn5l8rr2d</odePageId>
+          <odeBlockId>block-1775895542140-1egl1rf0v</odeBlockId>
+          <odeIdeviceId>idevice-1775895542136-1nfg4vl3e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las competencias específicas que se trabajan en esta SdA son las siguientes:</p>
+<p><strong>Área I</strong></p>
+<p>3. Adoptar modelos, normas y hábitos, desarrollando la confianza en sus posibilidades y sentimientos de logro, para promover un estilo de vida saludable y ecosocialmente responsable.</p>
+<p><strong>Área II</strong></p>
+<p>2.Desarrollar, de manera progresiva, los procedimientos del método científico y las destrezas del pensamiento computacional, a través de procesos de observación y manipulación de objetos, para iniciarse en la interpretación del entorno y responder de forma creativa a las situaciones y retos que se plantean.</p>
+<p><strong>Área III</strong></p>
+<p>1. Manifestar interés por interactuar en situaciones cotidianas a través de la exploración y el uso de su repertorio comunicativo, para expresar sus necesidades e intenciones y responder a las exigencias del entorno.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775895542136-1nfg4vl3e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las competencias específicas que se trabajan en esta SdA son las siguientes:</p>\n<p><strong>Área I</strong></p>\n<p>3. Adoptar modelos, normas y hábitos, desarrollando la confianza en sus posibilidades y sentimientos de logro, para promover un estilo de vida saludable y ecosocialmente responsable.</p>\n<p><strong>Área II</strong></p>\n<p>2.Desarrollar, de manera progresiva, los procedimientos del método científico y las destrezas del pensamiento computacional, a través de procesos de observación y manipulación de objetos, para iniciarse en la interpretación del entorno y responder de forma creativa a las situaciones y retos que se plantean.</p>\n<p><strong>Área III</strong></p>\n<p>1. Manifestar interés por interactuar en situaciones cotidianas a través de la exploración y el uso de su repertorio comunicativo, para expresar sus necesidades e intenciones y responder a las exigencias del entorno.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775894779753-rn5l8rr2d</odePageId>
+      <odeBlockId>block-1775895858725-0pa41f12f</odeBlockId>
+      <blockName>Saberes básicos</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775894779753-rn5l8rr2d</odePageId>
+          <odeBlockId>block-1775895858725-0pa41f12f</odeBlockId>
+          <odeIdeviceId>idevice-1775895858720-umoeoq6lp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Área I</strong></p>
+<p>C. Hábitos de vida saludable para el autocuidado y cuidado del entorno.</p>
+<p><strong>Área II</strong></p>
+<p>B. Experimentación en el entorno. Curiosidad, pensamiento científico y creatividad.</p>
+<p><strong>Área III</strong></p>
+<p>A. Intención e interacción comunicativas.</p>
+<p>C. Comunicación verbal: expresión, comprensión, diálogo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775895858720-umoeoq6lp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Área I</strong></p>\n<p>C. Hábitos de vida saludable para el autocuidado y cuidado del entorno.</p>\n<p><strong>Área II</strong></p>\n<p>B. Experimentación en el entorno. Curiosidad, pensamiento científico y creatividad.</p>\n<p><strong>Área III</strong></p>\n<p>A. Intención e interacción comunicativas.</p>\n<p>C. Comunicación verbal: expresión, comprensión, diálogo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775894779753-rn5l8rr2d</odePageId>
+      <odeBlockId>block-1775896132305-ietteipru</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775894779753-rn5l8rr2d</odePageId>
+          <odeBlockId>block-1775896132305-ietteipru</odeBlockId>
+          <odeIdeviceId>idevice-1775896132302-a1nlb10v7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Área I</strong></p>
+<p>3.1. Realizar actividades relacionadas con el autocuidado y el cuidado del entorno con una actitud respetuosa, mostrando autoconfianza e iniciativa.</p>
+<p><strong>Área II</strong></p>
+<p>2.5 Programar secuencias de acciones o instrucciones para la resolución de tareas analógicas y digitales, desarrollando habilidades básicas de pensamiento computacional.</p>
+<p><strong>Área III</strong></p>
+<p>1.1.Participar de manera activa, espontánea y respetuosa con las diferencias individuales y lingüísticas en situaciones comunicativas de progresiva complejidad, en función de su desarrollo individual.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775896132302-a1nlb10v7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Área I</strong></p>\n<p>3.1. Realizar actividades relacionadas con el autocuidado y el cuidado del entorno con una actitud respetuosa, mostrando autoconfianza e iniciativa.</p>\n<p><strong>Área II</strong></p>\n<p>2.5 Programar secuencias de acciones o instrucciones para la resolución de tareas analógicas y digitales, desarrollando habilidades básicas de pensamiento computacional.</p>\n<p><strong>Área III</strong></p>\n<p>1.1.Participar de manera activa, espontánea y respetuosa con las diferencias individuales y lingüísticas en situaciones comunicativas de progresiva complejidad, en función de su desarrollo individual.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775896343169-0bdcd7cq5</odePageId>
+  <odeParentPageId>page-mnu1qvni-olk1s7qhy</odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775896343169-0bdcd7cq5</odePageId>
+      <odeBlockId>block-1775896613357-gp8o7ada5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775896343169-0bdcd7cq5</odePageId>
+          <odeBlockId>block-1775896613357-gp8o7ada5</odeBlockId>
+          <odeIdeviceId>idevice-1775896613353-qdfwrfwpc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las metodologías que se ponen en practica son: el centro de interés donde el docente presenta en torno a un tema un conjunto de actividades que motiven al alumnado y le permita construir aprendizaje significativos.  y los rincones de aprendizaje. En cuanto a las metodologías activas destaca el <strong>aprendizaje</strong> <strong>cooperativo</strong> donde cada niño y niña trabaja con sus compañeros y compañeras para conseguir unos objetivos comunes. </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775896613353-qdfwrfwpc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las metodologías que se ponen en practica son: el centro de interés donde el docente presenta en torno a un tema un conjunto de actividades que motiven al alumnado y le permita construir aprendizaje significativos.  y los rincones de aprendizaje. En cuanto a las metodologías activas destaca el <strong>aprendizaje</strong> <strong>cooperativo</strong> donde cada niño y niña trabaja con sus compañeros y compañeras para conseguir unos objetivos comunes. </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775896746621-j8454vut5</odePageId>
+  <odeParentPageId>page-mnu1qvni-olk1s7qhy</odeParentPageId>
+  <pageName>Proyectos y programas de centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Proyectos y programas de centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775896746621-j8454vut5</odePageId>
+      <odeBlockId>block-1775896899388-vjxa7qx53</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775896746621-j8454vut5</odePageId>
+          <odeBlockId>block-1775896899388-vjxa7qx53</odeBlockId>
+          <odeIdeviceId>idevice-1775896899386-3nbx6f14v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se relaciona directamente con el <strong>programa de bienestar y el proyecto de salud</strong> del centro educativo porque promueve hábitos que favorecen el bienestar físico, mental y social del alumnado. A través de ella, se fomenta una alimentación equilibrada, la prevención de enfermedades y la adquisición de estilos de vida saludables, objetivos clave de ambos programas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775896899386-3nbx6f14v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se relaciona directamente con el <strong>programa de bienestar y el proyecto de salud</strong> del centro educativo porque promueve hábitos que favorecen el bienestar físico, mental y social del alumnado. A través de ella, se fomenta una alimentación equilibrada, la prevención de enfermedades y la adquisición de estilos de vida saludables, objetivos clave de ambos programas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775897764178-06iuv7x1v</odePageId>
+  <odeParentPageId>page-mnu1qvni-olk1s7qhy</odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775897764178-06iuv7x1v</odePageId>
+      <odeBlockId>block-1775897767163-yj0n5ao6v</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775897764178-06iuv7x1v</odePageId>
+          <odeBlockId>block-1775897767163-yj0n5ao6v</odeBlockId>
+          <odeIdeviceId>idevice-1775897767161-zu6zruwu0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>- <strong>Salida a una frutería</strong>: facilita el conocimiento de las frutas, su variedad, temporalidad y características, fomentando el consumo de productos frescos y de proximidad.</p>
+<p>- <strong>Realizar un taller para elaborar una receta saludable</strong>; brocheta de frutas. Promueve la adquisición de hábitos alimentarios saludables de forma práctica y motivadora, además de desarrollar la autonomía y habilidades básicas en la manipulación de alimentos.</p>
+<p>- <strong>Visita a un supermercado</strong>: permite al alumnado aprender a interpretar etiquetas, comparar productos y tomar decisiones de consumo responsables, desarrollando así el pensamiento crítico en relación con la alimentación.</p>
+<p>- <strong>Salida a "La Rula" de Luarca</strong>: conocer el origen de los alimentos, en este caso del pescado, así como valorar la importancia del sector primario y de una dieta equilibrada que incluya diferentes grupos de alimentos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775897767161-zu6zruwu0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>- <strong>Salida a una frutería</strong>: facilita el conocimiento de las frutas, su variedad, temporalidad y características, fomentando el consumo de productos frescos y de proximidad.</p>\n<p>- <strong>Realizar un taller para elaborar una receta saludable</strong>; brocheta de frutas. Promueve la adquisición de hábitos alimentarios saludables de forma práctica y motivadora, además de desarrollar la autonomía y habilidades básicas en la manipulación de alimentos.</p>\n<p>- <strong>Visita a un supermercado</strong>: permite al alumnado aprender a interpretar etiquetas, comparar productos y tomar decisiones de consumo responsables, desarrollando así el pensamiento crítico en relación con la alimentación.</p>\n<p>- <strong>Salida a \"La Rula\" de Luarca</strong>: conocer el origen de los alimentos, en este caso del pescado, así como valorar la importancia del sector primario y de una dieta equilibrada que incluya diferentes grupos de alimentos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775898203009-ro3z4uyaz</odePageId>
+  <odeParentPageId>page-mnu1qvni-olk1s7qhy</odeParentPageId>
+  <pageName>Atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775898203009-ro3z4uyaz</odePageId>
+      <odeBlockId>block-1775898665989-b1m4uv278</odeBlockId>
+      <blockName>Atribución</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775898203009-ro3z4uyaz</odePageId>
+          <odeBlockId>block-1775898665989-b1m4uv278</odeBlockId>
+          <odeIdeviceId>idevice-1775898665987-admcprjly</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0_1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775898665987-admcprjly","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0_1.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775898203009-ro3z4uyaz</odePageId>
+      <odeBlockId>block-1775899005124-d562lj4h3</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775898203009-ro3z4uyaz</odePageId>
+          <odeBlockId>block-1775899005124-d562lj4h3</odeBlockId>
+          <odeIdeviceId>idevice-1775899005121-3gc8lw1kw</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">La despensa saludable</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje sobre la alimentación saludable</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Jennifer Correlo Gonçalves</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
